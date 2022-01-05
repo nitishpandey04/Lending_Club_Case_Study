@@ -1,52 +1,52 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> Using Exploratory Data Analysis on historical loan dataset to figure out the type of loan applicants who are more likely to default.
 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [Steps](#steps)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+## Steps
+- Data Sourcing
+- Metadata/Sanity Check
+- Univariate Analysis
+- Segmented Univariate Analysis
+- Bivariate Analysis
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- 'interest_rate' - higher the interest rate, more the chances of default
+- 'loan_amnt' - higher the loan amount, more the chances of default
+- 'grade' - higher the grade, more the chances of default
+- 'purpose' - Lender should pay special attention to 'debt_consolidation', 'other' and 'small_business' categories
+- 'annual_inc_categorical' - lower the annual income, more likely to be a defaulter
+- 'inq_last_6mths' - higher the inquiries, more the chances of default
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- python language
+- pandas library
+- numpy library
+- matplotlib library
+- seaborn library
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
+- Teaching Assistants and Live Sessions were the most helpful
+- Program study material
+- Stack Overflow
+- Google
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
+Created by [@nitishpandey04] - feel free to contact me!
 
 <!-- You don't have to include all sections - just the one's relevant to your project -->
