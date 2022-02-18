@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> Using Exploratory Data Analysis on historical loan dataset to figure out the type of loan applicants who are more likely to default.
+> Using Exploratory Data Analysis on historical loan dataset to figure out the type of loan applicants who are more likely to default. The data being used can be found [here](https://drive.google.com/drive/folders/1Tij-ftgsLjdQOh4imv2gON9b0AF7uviQ?usp=sharing).
 
 
 ## Table of Contents
